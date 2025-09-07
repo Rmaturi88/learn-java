@@ -5,3 +5,4 @@ public class ex1
         System.out.println("hi,today is friday");
     }
 }
+//This is the sample program to print the statement
